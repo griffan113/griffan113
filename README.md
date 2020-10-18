@@ -1,9 +1,9 @@
 ### Olá! Bem vindo ao meu perfil 👋
 
-- 🌱 Estou aprendendo Desenvolvimento WEB;
+- 🌱 Programador WEB Iniciante;
 - 🌱 Programador Iniciante de BOTs do Discord;
 - 🌱 Programador de Microcontroladores PIC;
-- 📫 Me adicione no Discord: GriFFan (Eliel) #6121;
+- 📫 Me adicione no Discord: Eliel ガスプ #6121;
 - 📫 Entre no meu servidor do Discord! ⇊ ⇊ ⇊
 
 
