@@ -1,7 +1,7 @@
 ### Olá! Bem vindo ao meu perfil 👋
 
 - 🌱 Programador WEB;
-- 🌱 Programador Iniciante de BOTs do Discord;
+- 🌱 Programador de BOTs do Discord;
 - 🌱 Programador de Microcontroladores PIC;
 - 📫 Me adicione no Discord: Eliel ガスプ #6121;
 - 📫 Entre no meu servidor do Discord! ⇊ ⇊ ⇊
