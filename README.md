@@ -26,7 +26,6 @@
 <a href="https://www.linkedin.com/in/eliel-michelmann-gaspar-5374a2195/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://eliel-portfolio.web.app/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
 </p>
-[![Discord](https://discordapp.com/api/guilds/689492899389505650/widget.png)]( https://discord.gg/BDuuVCNDts)
 
 <br>
 
@@ -40,4 +39,4 @@
 
 
 
-
+[![Discord](https://discordapp.com/api/guilds/689492899389505650/widget.png)]( https://discord.gg/BDuuVCNDts)
