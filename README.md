@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
+    <img align="center" alt="visitors" src="[![Discord](https://discordapp.com/api/guilds/689492899389505650/widget.png)](https://discord.gg/kUQ6JaQ)" />
 </p>
 
 <p align="center">
