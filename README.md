@@ -34,7 +34,6 @@
 - 🌱 Técnico em Mecatrônica;
 - 🌱 Programador WEB;
 - 🌱 Programador de BOTs do Discord;
-- 🌱 Programador de Microcontroladores PIC;
 - 📫 Me adicione no Discord: Eliel ガスプ #6121;
 
 
