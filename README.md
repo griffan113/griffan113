@@ -35,8 +35,7 @@
 - 🌱 Programador de BOTs do Discord;
 - 📫 Me adicione no Discord: Eliel ガスプ #6121;
 
-<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=griffan113)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
 [![Discord](https://discordapp.com/api/guilds/689492899389505650/widget.png)]( https://discord.gg/BDuuVCNDts)
