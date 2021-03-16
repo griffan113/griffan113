@@ -28,7 +28,7 @@
 </p>
 
 <br>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?griffan113=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🌱 Técnico em Mecatrônica;
