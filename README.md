@@ -28,7 +28,6 @@
 </p>
 
 <br>
-[![Eliel's GitHub stats](https://github-readme-stats.vercel.app/api?username=griffan113)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🌱 Técnico em Mecatrônica;
@@ -36,6 +35,8 @@
 - 🌱 Programador de BOTs do Discord;
 - 📫 Me adicione no Discord: Eliel ガスプ #6121;
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Discord](https://discordapp.com/api/guilds/689492899389505650/widget.png)]( https://discord.gg/BDuuVCNDts)
