@@ -33,16 +33,12 @@
 <br>
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### Mechatronics technician;
-### Web developer;
-### Discord bots developer;
-### Add me on Discord: Eliel ガスプ #6121;
-
 ## Currently working with:
 
 * NestJs;
 * NextJS;
 * GraphQL;
+* Kotlin.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=griffan113)](https://github.com/anuraghazra/github-readme-stats)
 
