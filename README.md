@@ -37,19 +37,21 @@
 
 <br>
 
-
-<p>
-  <h2 align="center"><b>🔧 Currently working with:</b></h2>
-</p>
-
-<ul style="text-decoration: none;" align="center">
-  <li>NestJs</li>
-  <li>NextJS</li>
-  <li>GraphQL</li>
-  <li>Kotlin</li>
-</ul>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=griffan113)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
+### 🔧 Currently working with:
+- NestJs
+- NextJS
+- GraphQL
+- Kotlin
+
+<br>
+<br>
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=griffan113)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Discord](https://discordapp.com/api/guilds/689492899389505650/widget.png)](  https://discord.gg/XpTWUy72Cq)
+<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
