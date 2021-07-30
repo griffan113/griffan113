@@ -3,10 +3,6 @@
   <h1 align="center"><b>Welcome 👋</b></h1>
 </p>
 
-<p>
-  <h2 align="center"><b>🔧 Tools:</b></h2>
-</p> 
-
 <br>
 <br>
 <br>
