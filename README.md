@@ -1,4 +1,5 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+![Banner](https://elielgaspar.xyz/MyBanner.jpg)
 <p>
   <h1 align="center"><b>Welcome 👋</b></h1>
 </p>
