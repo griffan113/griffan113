@@ -17,11 +17,17 @@
 
 <br>
 
-### 🔧 Currently working with:
+<div align="center">
+
+  ### 🔧 Currently working with:
 - NestJs
 - NextJS
 - GraphQL
 - Kotlin
+  
+</div>
+
+
 
 <br>
 <br>
@@ -32,5 +38,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=griffan113&theme=dark)](https://git.io/streak-stats)
 
 
-[![Discord](https://discordapp.com/api/guilds/689492899389505650/widget.png)](  https://discord.gg/XpTWUy72Cq)
 <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
