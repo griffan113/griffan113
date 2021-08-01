@@ -29,7 +29,8 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=griffan113)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=griffan113&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=griffan113&theme=dark)](https://git.io/streak-stats)
 
 
 [![Discord](https://discordapp.com/api/guilds/689492899389505650/widget.png)](  https://discord.gg/XpTWUy72Cq)
