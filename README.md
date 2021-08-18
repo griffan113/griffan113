@@ -22,6 +22,7 @@
   ### 🔧 Currently working with:
 - NestJs
 - NextJS
+- Electron
 - GraphQL
 - Kotlin
   
