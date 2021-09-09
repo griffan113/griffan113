@@ -40,7 +40,7 @@
 <div align="center">
 <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=griffan113&theme=dark)](https://github.com/anuraghazra/github-readme-stats" alt="Eliel Stats" /></a>
 </div>
-
+<br />
 <div align="center">
 <a href=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=griffan113&theme=dark)](https://git.io/streak-stats" alt="Eliel Stats" /></a>
 </div>
