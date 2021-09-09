@@ -1,5 +1,5 @@
 ![Banner](https://elielgaspar.xyz/BannerHeader.png)
-![Banner](https://elielgaspar.xyz/MyBannerPNG.png)
+![Banner](https://elielgaspar.xyz/BannerPNG.png)
 
 
 <br>
