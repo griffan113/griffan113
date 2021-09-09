@@ -47,3 +47,4 @@
 
 
 
+<img src="https://elielgaspar.xyz/MyBannerFooter.png" />
