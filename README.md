@@ -1,3 +1,4 @@
+![Banner](https://elielgaspar.xyz/BannerHeader.png)
 ![Banner](https://elielgaspar.xyz/MyBannerPNG.png)
 
 
@@ -47,4 +48,4 @@
 
 
 
-<img src="https://elielgaspar.xyz/MyBannerFooter.png" />
+<img src="https://elielgaspar.xyz/BannerFooter.png" />
