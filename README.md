@@ -7,6 +7,8 @@
 <br>
 <br>
 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+
 <div align="center">
 <br>
 <a href="https://www.linkedin.com/in/eliel-michelmann-gaspar-5374a2195/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
