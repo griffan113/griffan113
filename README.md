@@ -1,4 +1,3 @@
-![Banner](https://elielgaspar.xyz/MyBannerHeader.png)
 ![Banner](https://elielgaspar.xyz/MyBannerPNG.png)
 
 
