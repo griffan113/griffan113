@@ -1,8 +1,5 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 ![Banner](https://elielgaspar.xyz/MyBanner.jpg)
-<p>
-  <h1 align="center"><b>Welcome 👋</b></h1>
-</p>
 
 <br>
 <br>
@@ -19,13 +16,16 @@
 
 <div align="center">
 
-  ### 🔧 Currently working with:
-- NestJs
-- NextJS
-- Electron
-- GraphQL
-- Kotlin
-  
+  # 🔧 Main Technologies:
+  <strong>TypeScript</strong>
+  <br />
+  <strong>NestJs</strong>
+  <br />
+  <strong>Electron</strong>
+  <br />
+  <strong>GraphQL</strong>
+  <br />
+  <strong>Kotlin</strong>  
 </div>
 
 
@@ -35,8 +35,15 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=griffan113&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=griffan113&theme=dark)](https://git.io/streak-stats)
+
+
+<div align="center">
+<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=griffan113&theme=dark)](https://github.com/anuraghazra/github-readme-stats" alt="Eliel Stats" /></a>
+</div>
+
+<div align="center">
+<a href=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=griffan113&theme=dark)](https://git.io/streak-stats" alt="Eliel Stats" /></a>
+</div>
 
 
 <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
