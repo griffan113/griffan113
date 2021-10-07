@@ -22,13 +22,15 @@
   # 🔧 Main Technologies:
   <strong>TypeScript</strong>
   <br />
+  <strong>NodeJs</strong>
+  <br />
   <strong>NestJs</strong>
   <br />
   <strong>Electron</strong>
   <br />
   <strong>GraphQL</strong>
   <br />
-  <strong>Kotlin</strong>  
+  <strong>React</strong>  
 </div>
 
 
