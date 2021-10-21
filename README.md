@@ -22,7 +22,7 @@
   # 🔧 Main Technologies:
   <strong>TypeScript</strong>
   <br />
-  <strong>NodeJs</strong>
+  <strong>Node.js</strong>
   <br />
   <strong>NestJs</strong>
   <br />
@@ -30,7 +30,9 @@
   <br />
   <strong>GraphQL</strong>
   <br />
-  <strong>React</strong>  
+  <strong>React</strong>
+  <br />
+  <strong>Next.js</strong> 
 </div>
 
 
