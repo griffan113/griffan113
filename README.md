@@ -1,5 +1,4 @@
-![Banner](https://elielgaspar.xyz/BannerHeader.png)
-![Banner](https://elielgaspar.xyz/BannerPNG.png)
+![Banner](https://elielgaspar.xyz/static/banner.png)
 
 
 <br>
@@ -51,7 +50,3 @@
 <div align="center">
 <a href=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=griffan113&theme=vue-dark" alt="Eliel Stats" /></a>
 </div>
-
-
-
-<img src="https://elielgaspar.xyz/BannerFooter.png" />
