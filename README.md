@@ -25,13 +25,13 @@
   <br />
   <strong>NestJs</strong>
   <br />
-  <strong>Electron</strong>
-  <br />
   <strong>GraphQL</strong>
   <br />
   <strong>React</strong>
   <br />
   <strong>Next.js</strong> 
+  <br />
+  <strong>Phoenix</strong> 
 </div>
 
 
