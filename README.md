@@ -21,13 +21,13 @@
   # 🔧 Main Technologies:
   <strong>TypeScript</strong>
   <br />
+  <strong>Elixir</strong>
+  <br />
   <strong>Node.js</strong>
   <br />
   <strong>NestJs</strong>
   <br />
   <strong>GraphQL</strong>
-  <br />
-  <strong>React</strong>
   <br />
   <strong>Next.js</strong> 
   <br />
