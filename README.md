@@ -18,10 +18,10 @@
 
 <div align="center">
 
-  # 🔧 Main Technologies:
-  <strong>TypeScript</strong>
+  # My favorite technologies ❤️:
+  <strong>Terraform</strong>
   <br />
-  <strong>Elixir</strong>
+  <strong>GCP</strong>
   <br />
   <strong>Node.js</strong>
   <br />
@@ -30,8 +30,6 @@
   <strong>GraphQL</strong>
   <br />
   <strong>Next.js</strong> 
-  <br />
-  <strong>Phoenix</strong> 
 </div>
 
 
